@@ -4,7 +4,7 @@ About me:
 - 🌱 I’m currently learning Laravel and Vue.js
 - 🤔 I’m looking for help with Vue.js and Bootstrap
 - ⚡ I'm really passionate about technology and learning new things!
-
+- 🎮 I enjoy playing games and watching anime
 ---
 
 ### How to reach me:
